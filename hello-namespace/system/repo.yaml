@@ -1,0 +1,6 @@
+kind: Repo
+apiVersion: configmanagement.gke.io/v1
+metadata:
+  name: git-created
+spec:
+  version: "0.1.0"
