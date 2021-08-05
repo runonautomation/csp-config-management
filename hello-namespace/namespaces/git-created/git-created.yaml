@@ -4,3 +4,4 @@ metadata:
   name: git-created
   labels:
     name: git-created
+    istio-injection: enabled
